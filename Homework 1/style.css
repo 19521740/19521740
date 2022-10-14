@@ -1,6 +1,5 @@
 .profile {
-    margin-left: 45%;
-    margin-right: 47%;
+    margin-left: 35px;
 }
 
 .image img {
@@ -51,7 +50,50 @@
     background-color: antiquewhite;
 }
 
-.bottom {}
+.WorkExp {
+    margin-left: 35px;
+    color: rgba(2, 102, 46, 0.422);
+}
+
+.Exp {
+    color: rgba(2, 102, 46, 0.422);
+    margin-left: 35px;
+}
+
+.color-edu {
+    margin-left: 35px;
+    color: rgba(2, 102, 46, 0.422);
+}
+
+.Edu-Inf {
+    margin-left: 35px;
+    display: flex;
+    flex: 2;
+    width: 80%;
+}
+
+.Education {
+    flex: 1;
+}
+
+.IS {
+    flex: 1;
+}
+
+.Work-Part {
+    display: flex;
+    flex: 2;
+    margin-left: 35px;
+    width: 80%;
+}
+
+.WE {
+    flex: 1;
+}
+
+.PF {
+    flex: 1;
+}
 
 .Program-skills {
     display: flex;
